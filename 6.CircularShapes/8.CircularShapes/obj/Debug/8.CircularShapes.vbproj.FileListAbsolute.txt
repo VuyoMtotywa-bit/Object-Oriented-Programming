@@ -1,0 +1,41 @@
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe.config
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.pdb
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.xml
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbprojAssemblyReference.cache
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Form1.resources
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Resources.resources
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.GenerateResource.cache
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.CoreCompileInputs.cache
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.exe
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.xml
+C:\Users\gmagwaza\source\repos\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.pdb
+E:\1.CPR\1.Term1\2.Student Projects\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe.config
+E:\1.CPR\1.Term1\2.Student Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.exe
+E:\1.CPR\1.Term1\2.Student Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.xml
+E:\1.CPR\1.Term1\2.Student Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.pdb
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe.config
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.pdb
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.xml
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.AssemblyReference.cache
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.SuggestedBindingRedirects.cache
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Form1.resources
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Resources.resources
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.GenerateResource.cache
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.CoreCompileInputs.cache
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.exe
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.xml
+P:\GMA 2024\CPR Projects\8.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.pdb
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe.config
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.exe
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.pdb
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\bin\Debug\8.CircularShapes.xml
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.AssemblyReference.cache
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Form1.resources
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\_8.CircularShapes.Resources.resources
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.GenerateResource.cache
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.vbproj.CoreCompileInputs.cache
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.exe
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.xml
+H:\Level 4\CPR\CPR\Projects\6.CircularShapes\8.CircularShapes\obj\Debug\8.CircularShapes.pdb
